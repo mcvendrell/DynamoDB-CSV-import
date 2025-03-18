@@ -1,0 +1,4 @@
+"region","id","communications","name","role","skills"
+"ES","a","","Admin","admin",""
+"ES","b","{""vote"":{""S"":""Y""},""ads"":{""S"":""Y""}}","Pablo Mármol","worker","[{""S"":""barista""}]"
+"ES","c","{""vote"":{""S"":""Y""},""ads"":{""S"":""Y""}}","Pedro Picapiedra","worker","[{""S"":""barista""},{""S"":""bartender""}]"
