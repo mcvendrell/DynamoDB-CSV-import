@@ -14,6 +14,7 @@ import json
 # Save the file with a new name and close Excel. This is necessary only if you have List or Map fields in your CSV
 #      because the inner fields are separated by "," and this will cause issues with columns, so columns now are separated by ";"
 # If you don't change the delimiter, you will have to change the delimiter at the end in the code from ; to ,
+# Finally, change function convert_item in the types section to fit your columns types
 # Now, configure params below and run the script
 
 # True = logs in console
